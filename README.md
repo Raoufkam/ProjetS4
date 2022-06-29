@@ -1,4 +1,13 @@
-# Projet S4 - L2 Informatique Paul Sabatier
+# Projet S4 - L2 Informatique Paul Sabatier  
+  
+  
+  ## Ce projet à été réalisé par les deux étudiants :  
+  
+  * Alibert Pierre
+  * Kamiche Mohamed Raouf  
+
+<<<<<  *Ceci a été fait dans le cadre de l'UE __PROJET S4__ du semestre 4 en **Licence informatique**.*  >>>>>>
+
 ```diff
 -             //\\//\\//\\// Un systeme d'exploitation (très) simplifié UNIX like //\\//\\//\\//          -
 ```
