@@ -22,11 +22,10 @@ Le systeme gerera diverses operations sur les fichiers, une table des utilisateu
 de ces derniers sur les fichiers, une procedure de connexion et un interprete de commande.
 Comme il est d'usage en système, la logique de fonctionnement sera divisee en couches .
 
+_____________________________________________   **Comment lancer le système d'exploitation**  ______________________________________________  
 
-  -------------------------------------------------------------------------------------------------------
-                                " Comment lancer le système d'exploitation "
-  -------------------------------------------------------------------------------------------------------
-  
+
+
    //\\//\\//\\//\\//\\==========>> Faudra d'abord télécharger la liste des fichiers qui se trouve dans *ProjetS4*/ .  
    Ouvrir une terminal Unix (Ubuntu,VirtualBox...).  
    Puis se positoner dans le repertoire contenant le projet ensuite veuillez suivre les étapes qui suivent pour bien comprendre le lancement du *système 
