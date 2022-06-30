@@ -22,7 +22,7 @@ Le systeme gerera diverses operations sur les fichiers, une table des utilisateu
 de ces derniers sur les fichiers, une procedure de connexion et un interprete de commande.
 Comme il est d'usage en système, la logique de fonctionnement sera divisee en couches .
 
-_____________________________________________   **Comment lancer le système d'exploitation**  _______________________________________  
+_________________________________   **Comment lancer le système d'exploitation**  ___________________________________  
 
 
 
